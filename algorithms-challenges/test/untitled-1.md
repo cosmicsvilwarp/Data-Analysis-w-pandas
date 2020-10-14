@@ -1,10 +1,6 @@
-# Cover
+# Untitled
 
-## 100. Same Tree
 
-Given two binary trees, write a function to check if they are the same or not.
-
-\*\*\*\*
 
 **Example 1:**
 
@@ -41,25 +37,4 @@ Input:     1         1
 
 Output: false
 ```
-
-{% tabs %}
-{% tab %}
-
-{% endtab %}
-{% endtabs %}
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```java
-public static void(String[] args){
-
-```
-{% endcode %}
-
-
 
